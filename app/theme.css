@@ -1,0 +1,17 @@
+/* the font that it uses*/
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+  }
+
+/* background color*/
+
+body {
+    background-color: #3a3a3aa2;
+  }
