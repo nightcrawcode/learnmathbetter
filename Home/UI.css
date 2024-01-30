@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(16, 166, 216); /* Makes the background blue*/
+  }
+
+  h1 {
+    font-family: "Sans-serif"; /* from line 6-18 it make the website have the same font (I like Sans-serif please don't change it*/
+  }
+
+  h2 {
+    font-family: "Sans-serif";
+  }
+
+  p {
+    font-family: "Sans-serif";
+  }
+
+  button {
+    font-family: "Sans-serif";
+
+  }
