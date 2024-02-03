@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(12, 103, 221) /* Makes the background blue*/
+  }
+
+  h1 {
+    font-family: "Sans-serif"; /* from line 6-18 it make the website have the same font (I like Sans-serif please don't change it*/
+    text-align: center;
+  }
+
+  h2 {
+    font-family: "Sans-serif";
+    text-align: center;
+  }
+
+  p {
+    font-family: "Sans-serif";
+    text-align: center;
+  }
+
+/* cool button thing */
+
+  a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 2px solid green;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: green;
+    color: white;
+  }
+
+
+/*
+A link thing you can use if you want.
+
+  button {
+    font-family: "Sans-serif";
+    text-align: center;
+
+  }
+
+  a:link {
+    color: #006eff;
+  }
+  
+  a:visited {
+    color: #00c500;
+  }
+  
+  a:hover {
+    color: #4d8bff
+  }
+  
+  a:active {
+    color: #00fca8;
+  }
+
+ */
+
