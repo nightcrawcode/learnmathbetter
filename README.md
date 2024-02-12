@@ -1,17 +1,17 @@
 # learnmathbetter
 A helpful tool to learn math better!
 This progame is used to help learn math in a duolingo like way.
-and not be yelled at by i-Ready!
+and not be yelled at by i-Ready! (I hate I-Ready)
 
 # how is it better?
+It is like Duoligo but with better fedtures like:
 
-The UI is like duolingo and it gose easy on you but makes sure that you learn math!
-but it is mostly a study too,
+    YT Short Breaks
+    Fix small mistakes
+    easier learing
+    and privacy firendly
 
 # How to use it
 
-If you are seeing this right now, it means it is not out yet,
-but you can see the progress made for this.
-feel free to clone this github Repository if you want to
-run a prototype of the progame
-but for now you need to wait sorry!
+Still being work and not ready to be out.
+you can clone the reposity to run a prototype!

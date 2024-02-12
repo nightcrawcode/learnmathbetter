@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(54, 60, 68) /* Makes the background blue*/
+  }
+
+ h1 {
+    text-align: center;
+    color: white;
+ } 
+
+ h2 {
+    text-align: center;
+    color: white;
+ }
+
+ p {
+    text-align: center;
+    color: white;
+ }
+
+/* button is cool */
+
+ a:link, a:visited {
+   background-color: rgb(50, 6, 226);
+   color: black;
+   border: 2px solid rgb(4, 4, 4);
+   padding: 10px 20px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+ }
+ 
+ a:hover, a:active {
+   background-color: white;
+   color: black;
+ }
